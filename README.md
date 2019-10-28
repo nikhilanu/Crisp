@@ -1,2 +1,2 @@
 # Crisp
-Automatic Text Summarizer
+Automatic Text Summarizer on iOS
